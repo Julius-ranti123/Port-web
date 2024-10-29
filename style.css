@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI';
+}
+nav{ 
+    background: #7a7aa5;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color: rgb(5, 5, 5);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+    font-style:italic;
+    text-transform: uppercase;
+    
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: rgb(75, 231, 218);
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style:italic ;
+}
+li a:hover{
+    background: #070707;
+    
+}
+body{
+    background-image:url('1212.pjpg.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh;
+}
+ 
+footer{
+    background: #49c7ac;
+    color:#070707;
+    text-align: center;
+    padding: 20px 25px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    font-weight: bold;
+    
+}
+body{
+    color: rgb(196, 8, 230);
+    letter-spacing: 1px;
+    font-weight: 200;
+    
+
+}
+ .large{
+    font-size: bold;
+ }
+ .skills{
+    font-weight: 200;
+    color: aqua;
+ }
+
+ *{
+    padding: 0;
+    margin: 0;
+    font-family:'josefin sans', sans-serif;
+    box-sizing: border-box;
+
+ }
+
+ .about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color:rgb(15, 15, 14);
+ }
+ .about img{
+    height: auto;
+    width: 420px;
+ }
+
+ .about-text{
+    width: 550px;
+ }
+
+ .main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+ .about-text h1{
+    color: beige;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+ }
+
+ .about-text h5{
+    color: beige;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+ }
+span{
+    color: #f9004d;
+}
+.about-text p{
+    color: aqua;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 45px;
+}
+button{
+    background: #f9004d;
+    color: aliceblue;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+    
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.skills{
+    width: 100%;
+    padding: 78px 0px;
+    background-color:rgb(85, 85, 84);
+ }
+ .skills-text h1{
+    color: rgba(12, 153, 47, 0.685);
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+ }
+ .skills-text p{
+    color: aqua;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 45px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .skills img{
+    height: auto;
+    width: 420px;
+ }
+ .skills-text{
+    width: 550px;
+ }
+
+
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.project{
+    width: 100%;
+    padding: 78px 0px;
+    background-color:rgba(15, 14, 15, 0.459);
+ }
+ .project-text h1{
+    color: rgba(11, 230, 65, 0.959);
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+ }
+ .project-text p{
+    color: rgb(228, 18, 18);
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 230px;
+}
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ 
+ span{ 
+    color: #45df08;
+}
+.project-text h2{
+    color: rgb(199, 199, 17);
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+ }
